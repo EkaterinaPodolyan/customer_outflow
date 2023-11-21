@@ -7,3 +7,6 @@
 ## Библиотеки
 
 *pandas, matplotlib, sklearn*
+
+## Статус
+завершен
